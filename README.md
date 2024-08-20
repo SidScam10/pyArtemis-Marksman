@@ -1,5 +1,5 @@
 # pyArtemis-Marksman
-A simple Python/PyGame implementation of an Aim Trainer that tests your average reaction speed and grades you accordingly.
+A responsive Aim Trainer game using the Pygame library, designed to improve the user's reaction time and accuracy through target-based interaction
 
 # Reaction Time Grading System
 | Speed (ms)   | Grade |
